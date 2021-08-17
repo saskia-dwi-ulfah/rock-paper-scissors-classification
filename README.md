@@ -9,5 +9,5 @@ Regarding this project, here's some notes for you:
 <br>https://medium.com/@sdwiulfah/rock-paper-and-scissors-image-classification-with-keras-tensorflow-ce82f4670016
 
 Thank you!
-<br>Saskia Dwi Ulfah</br>
+<br>Saskia Dwi Ulfah
 <br>(sdwiulfah@gmail.com)</br>
