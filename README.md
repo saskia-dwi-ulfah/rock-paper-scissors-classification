@@ -1,7 +1,7 @@
 # rock-paper-scissors-classification
 
 Hello friends!
-<li>Thanks for taking the time to look at this repository. I really appreciate it!</li>
+<br>Thanks for taking the time to look at this repository. I really appreciate it!</br>
 
 Regarding this project, here's some notes for you:
 1. Code of this repository can be seen at master branch.
@@ -9,5 +9,5 @@ Regarding this project, here's some notes for you:
 https://medium.com/@sdwiulfah/rock-paper-and-scissors-image-classification-with-keras-tensorflow-ce82f4670016
 
 Thank you!
-Saskia Dwi Ulfah
-(sdwiulfah@gmail.com)
+<br>Saskia Dwi Ulfah</br>
+<br>(sdwiulfah@gmail.com)</br>
