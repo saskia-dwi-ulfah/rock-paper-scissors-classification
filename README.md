@@ -1,7 +1,7 @@
 # rock-paper-scissors-classification
 
 Hello friends!
-\n Thanks for taking the time to look at this repository. I really appreciate it!
+<li>Thanks for taking the time to look at this repository. I really appreciate it!</li>
 
 Regarding this project, here's some notes for you:
 1. Code of this repository can be seen at master branch.
