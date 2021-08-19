@@ -6,7 +6,7 @@ Hello friends!
 Regarding this project, here's some notes for you:
 1. Code of this repository can be seen at master branch.
 2. A more detailed description of this repository can be found on my Medium:
-<br>https://medium.com/@sdwiulfah/rock-paper-and-scissors-image-classification-with-keras-tensorflow-ce82f4670016?source=friends_link&sk=a9cef0dd5e95187f69497740b07bdc58
+<br>https://medium.com/@sdwiulfah/rock-paper-scissors-image-classification-with-keras-tensorflow-1c29ba0fe14d?source=friends_link&sk=3540a79b3d523c4e00a70a38d67d9253
 
 Thank you!
 <br>Saskia Dwi Ulfah
