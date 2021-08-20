@@ -10,4 +10,4 @@ Regarding this project, here's some notes for you:
 
 Thank you!
 <br>Saskia Dwi Ulfah
-<br>(sdwiulfah@gmail.com)</br>
+<br>(sdwiulfah@gmail.com) </br>
