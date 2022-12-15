@@ -1,4 +1,4 @@
-# rock-paper-scissors-classification
+# Rock Paper Scissors Classification
 
 Hello friends!
 <br>Thanks for taking the time to look at this repository. I really appreciate it!</br>
